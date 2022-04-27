@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chadlyriedewald.github.io/react-handbags/static/css/main.f763b4ee.chunk.css",
+    "main.js": "/chadlyriedewald.github.io/react-handbags/static/js/main.b5f0f5a0.chunk.js",
+    "main.js.map": "/chadlyriedewald.github.io/react-handbags/static/js/main.b5f0f5a0.chunk.js.map",
+    "runtime-main.js": "/chadlyriedewald.github.io/react-handbags/static/js/runtime-main.fd1fddeb.js",
+    "runtime-main.js.map": "/chadlyriedewald.github.io/react-handbags/static/js/runtime-main.fd1fddeb.js.map",
+    "static/js/2.3cf82371.chunk.js": "/chadlyriedewald.github.io/react-handbags/static/js/2.3cf82371.chunk.js",
+    "static/js/2.3cf82371.chunk.js.map": "/chadlyriedewald.github.io/react-handbags/static/js/2.3cf82371.chunk.js.map",
+    "static/js/3.ad09cd6f.chunk.js": "/chadlyriedewald.github.io/react-handbags/static/js/3.ad09cd6f.chunk.js",
+    "static/js/3.ad09cd6f.chunk.js.map": "/chadlyriedewald.github.io/react-handbags/static/js/3.ad09cd6f.chunk.js.map",
+    "index.html": "/chadlyriedewald.github.io/react-handbags/index.html",
+    "static/css/main.f763b4ee.chunk.css.map": "/chadlyriedewald.github.io/react-handbags/static/css/main.f763b4ee.chunk.css.map",
+    "static/js/2.3cf82371.chunk.js.LICENSE.txt": "/chadlyriedewald.github.io/react-handbags/static/js/2.3cf82371.chunk.js.LICENSE.txt",
+    "static/media/brand.fda0164a.png": "/chadlyriedewald.github.io/react-handbags/static/media/brand.fda0164a.png",
+    "static/media/our_story.20baff4b.png": "/chadlyriedewald.github.io/react-handbags/static/media/our_story.20baff4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1fddeb.js",
+    "static/js/2.3cf82371.chunk.js",
+    "static/css/main.f763b4ee.chunk.css",
+    "static/js/main.b5f0f5a0.chunk.js"
+  ]
+}
